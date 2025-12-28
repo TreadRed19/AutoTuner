@@ -1,0 +1,18 @@
+AutoTuner – License (Restricted / All Rights Reserved)
+
+Copyright (c) 2025 Johnny Johnson. All rights reserved.
+
+Permission is granted to download and use AutoTuner for personal, non-commercial use
+with Kerbal Space Program.
+
+You may NOT:
+- Reupload, mirror, or redistribute this mod (in whole or in part) without written permission.
+- Include this mod in modpacks or redistributions without written permission.
+- Sell, sublicense, monetize, or use this mod for commercial purposes.
+- Distribute modified versions of this mod without written permission.
+
+You MAY:
+- Share links to the official download page.
+- Create videos/streams featuring the mod.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND.
